@@ -1,0 +1,904 @@
+[
+  {
+    "id": "pushup_regular",
+    "name": "Flexiones Clásicas",
+    "muscleGroup": "Pecho",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "El ejercicio fundamental de empuje para desarrollar pectorales, tríceps y estabilidad escapular.",
+    "instructions": [
+      "Coloca las manos ligeramente más abiertas que la anchura de los hombros.",
+      "Mantén el cuerpo en línea recta desde los talones hasta la cabeza, activando glúteos y abdomen.",
+      "Desciende controladamente hasta que el pecho quede a un par de centímetros del suelo.",
+      "Empuja fuerte el suelo contrayendo el pecho y manteniendo los codos a 45 grados del torso."
+    ],
+    "commonMistakes": [
+      "Dejar caer la cadera arqueando la espalda lumbar.",
+      "Abrir los codos en forma de 'T' a 90 grados, estresando los hombros.",
+      "No realizar el rango de movimiento completo."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Flexiones con rodillas en el suelo",
+    "harderVariation": "Flexiones Diamante"
+  },
+  {
+    "id": "pushup_incline",
+    "name": "Flexiones Inclinadas",
+    "muscleGroup": "Pecho",
+    "difficulty": "Principiante",
+    "equipment": "Silla o banco",
+    "description": "Variante asistida ideal para principiantes que reduce el porcentaje de peso corporal levantado.",
+    "instructions": [
+      "Apoya las manos en un banco, mesa o superficie elevada.",
+      "Alinea el cuerpo y mantén el abdomen firme.",
+      "Lleva el pecho hacia el borde de la superficie con control.",
+      "Empuja de vuelta extendiendo los brazos sin bloquear agresivamente los codos."
+    ],
+    "commonMistakes": [
+      "Flexionar la cadera hacia atrás en vez de mantener el cuerpo recto.",
+      "Mirar hacia arriba en lugar de mantener el cuello neutro."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12-15 reps",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Flexiones contra la pared",
+    "harderVariation": "Flexiones Clásicas"
+  },
+  {
+    "id": "pushup_decline",
+    "name": "Flexiones Declinadas",
+    "muscleGroup": "Pecho",
+    "difficulty": "Intermedio",
+    "equipment": "Silla o banco",
+    "description": "Aumenta la carga sobre la porción clavicular del pectoral (pecho superior) y deltoides frontales.",
+    "instructions": [
+      "Coloca la punta de los pies sobre una superficie elevada y las manos en el suelo.",
+      "Mantén la tensión en el core para que la cadera no se hunda.",
+      "Baja con calma hasta que la barbilla/pecho casi toquen el suelo.",
+      "Empuja verticalmente con potencia."
+    ],
+    "commonMistakes": [
+      "Hundir la zona lumbar por falta de fuerza en el core.",
+      "Colocar los pies a una altura excesiva que desvíe el trabajo a trapecios."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Flexiones Clásicas",
+    "harderVariation": "Flexiones en Pica"
+  },
+  {
+    "id": "pushup_diamond",
+    "name": "Flexiones Diamante",
+    "muscleGroup": "Pecho",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "Énfasis superior en tríceps y parte central/interna del pectoral.",
+    "instructions": [
+      "Junta los dedos pulgares e índices formando un triángulo o diamante bajo tu pecho.",
+      "Baja el esternón hacia el centro de las manos con los codos pegados al cuerpo.",
+      "Empuja firmemente extendiendo los tríceps con fuerza."
+    ],
+    "commonMistakes": [
+      "Forzar las muñecas si falta movilidad articular (separar ligeramente las manos si molesta).",
+      "Dejar caer la cabeza antes que el pecho."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Flexiones Diamante con rodillas",
+    "harderVariation": "Flexiones Arqueras"
+  },
+  {
+    "id": "pushup_archer",
+    "name": "Flexiones Arqueras",
+    "muscleGroup": "Pecho",
+    "difficulty": "Avanzado",
+    "equipment": "Ninguno / Suelo",
+    "description": "Transición unilateral hacia la flexión a una sola mano cargando casi todo el peso en un brazo.",
+    "instructions": [
+      "Abre los brazos en una postura bien ancha.",
+      "Desciende hacia un lateral mientras el brazo opuesto se extiende por completo como una flecha.",
+      "Empuja con el brazo flexionado de vuelta al centro y alterna de lado."
+    ],
+    "commonMistakes": [
+      "Girar bruscamente la pelvis perdiendo la línea horizontal.",
+      "Flexionar el brazo de asistencia en lugar de dejarlo estirado."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "6 por lado",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Flexiones con manos bien abiertas",
+    "harderVariation": "Flexiones a Una Mano"
+  },
+  {
+    "id": "pushup_clap",
+    "name": "Flexiones con Palmada (Pliométricas)",
+    "muscleGroup": "Pecho",
+    "difficulty": "Avanzado",
+    "equipment": "Ninguno / Suelo",
+    "description": "Desarrolla potencia explosiva y reclutamiento rápido de fibras musculares.",
+    "instructions": [
+      "Desciende en una flexión regular de manera controlada.",
+      "Al subir, empuja el suelo con la máxima aceleración posible.",
+      "En el aire, da una palmada rápida y aterriza suavemente amortiguando con los codos flexionados."
+    ],
+    "commonMistakes": [
+      "Aterrizar con los codos bloqueados en extensión completa.",
+      "Acelerar sin haber alcanzado una profundidad adecuada."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "6-8 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Flexiones explosivas sin palmada",
+    "harderVariation": "Flexiones triple palmada"
+  },
+  {
+    "id": "pseudo_planche_pushup",
+    "name": "Pseudo Planche Push-ups",
+    "muscleGroup": "Pecho",
+    "difficulty": "Avanzado",
+    "equipment": "Ninguno / Suelo",
+    "description": "Inclinación del cuerpo hacia adelante para simular la palanca de la plancha gimnástica.",
+    "instructions": [
+      "Coloca las manos a la altura de la cintura con los dedos apuntando en diagonal o hacia atrás.",
+      "Inclina los hombros significativamente por delante de las muñecas.",
+      "Baja manteniendo la protracción escapular y la inclinación frontal constante.",
+      "Empuja hacia arriba bloqueando en postura cóncava."
+    ],
+    "commonMistakes": [
+      "Perder la inclinación hacia adelante al subir la repetición.",
+      "No mantener los glúteos contraídos."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "6-8 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Flexiones Declinadas",
+    "harderVariation": "Tuck Planche Push-ups"
+  },
+  {
+    "id": "parallel_dips",
+    "name": "Fondos en Paralelas (Dips)",
+    "muscleGroup": "Pecho",
+    "difficulty": "Intermedio",
+    "equipment": "Barras paralelas",
+    "description": "El rey de los ejercicios de empuje con peso corporal para pecho bajo y tríceps.",
+    "instructions": [
+      "Sostente sobre las barras paralelas con los codos estirados y hombros deprimidos.",
+      "Inclina levemente el torso hacia adelante para focalizar el pecho.",
+      "Baja hasta que los codos alcancen al menos un ángulo de 90 grados.",
+      "Empuja con fuerza hasta bloquear y deprimir hombros arriba."
+    ],
+    "commonMistakes": [
+      "Encoger los hombros hacia las orejas durante el movimiento.",
+      "Descender demasiado profundo si no se tiene suficiente movilidad en hombros."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Fondos con banda elástica o pies apoyados",
+    "harderVariation": "Fondos con pausa isométrica o lastre"
+  },
+  {
+    "id": "pullup_regular",
+    "name": "Dominadas Pronas (Pull-ups)",
+    "muscleGroup": "Espalda",
+    "difficulty": "Intermedio",
+    "equipment": "Barra de dominadas",
+    "description": "Ejercicio imprescindible para la amplitud dorsal, redondo mayor y bíceps braquial.",
+    "instructions": [
+      "Agarra la barra con las palmas mirando al frente (prono), ancho mayor que los hombros.",
+      "Inicia desde un cuelgue activo contrayendo y deprimiendo las escápulas.",
+      "Tira con la espalda llevando el pecho hacia la barra hasta que la barbilla la supere limpiamente.",
+      "Baja de forma controlada sin dejarte caer bruscamente."
+    ],
+    "commonMistakes": [
+      "Dar patadas o balancear las piernas (kipping).",
+      "No estirar los brazos completamente al final de cada repetición.",
+      "Adelantar la barbilla estirando el cuello en vez de subir con el torso."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "6-10 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Dominadas Australianas o con banda",
+    "harderVariation": "Dominadas con parada arriba"
+  },
+  {
+    "id": "chinup_regular",
+    "name": "Dominadas Supinas (Chin-ups)",
+    "muscleGroup": "Espalda",
+    "difficulty": "Intermedio",
+    "equipment": "Barra de dominadas",
+    "description": "Mayor implicación de los flexores del codo (bíceps) y dorsal inferior.",
+    "instructions": [
+      "Agarra la barra con las palmas mirando hacia ti, a la anchura de los hombros.",
+      "Comprime las escápulas y jala hacia el pecho hasta que la barbilla sobrepase la barra.",
+      "Desciende controlando la fase excéntrica en 2-3 segundos."
+    ],
+    "commonMistakes": [
+      "Redondear la parte superior de la espalda al llegar arriba.",
+      "Soltar la tensión escapular abajo del todo."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Dominadas supinas excéntricas lentas",
+    "harderVariation": "Dominadas en L-sit"
+  },
+  {
+    "id": "pullup_australian",
+    "name": "Dominadas Australianas (Inverted Rows)",
+    "muscleGroup": "Espalda",
+    "difficulty": "Principiante",
+    "equipment": "Barras paralelas o barra baja",
+    "description": "Excelente ejercicio de tracción horizontal para dorsal medio, romboides y deltoides posterior.",
+    "instructions": [
+      "Cuélgate debajo de una barra a la altura del pecho o cintura con los talones apoyados en el suelo.",
+      "Mantén el cuerpo rígido como una tabla recta.",
+      "Tira de la barra hacia la parte baja del pecho juntando las escápulas atrás.",
+      "Extiende los brazos lentamente sin doblar la cadera."
+    ],
+    "commonMistakes": [
+      "Quebrar la cadera hacia arriba o dejarla colgar.",
+      "No tocar la barra con el pecho."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Inverted row con mayor inclinación vertical",
+    "harderVariation": "Inverted row con pies elevados en banco"
+  },
+  {
+    "id": "pullup_scapular",
+    "name": "Tirones Escapulares Colgado",
+    "muscleGroup": "Espalda",
+    "difficulty": "Principiante",
+    "equipment": "Barra de dominadas",
+    "description": "Fortalece los músculos depresores y retractores de las escápulas, base de una dominada limpia.",
+    "instructions": [
+      "Cuélgate de la barra con agarre prono y los brazos totalmente estirados.",
+      "Sin flexionar los codos, tira hacia abajo de las escápulas alejando las orejas de los hombros.",
+      "Mantén la contracción arriba 2 segundos y regresa al cuelgue pasivo controlado."
+    ],
+    "commonMistakes": [
+      "Doblar los codos para subir unos centímetros.",
+      "Hacer rebotes rápidos sin control."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12 reps",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Cuelgue pasivo estático",
+    "harderVariation": "Tirones escapulares a un solo brazo"
+  },
+  {
+    "id": "pullup_wide",
+    "name": "Dominadas con Agarre Ancho",
+    "muscleGroup": "Espalda",
+    "difficulty": "Avanzado",
+    "equipment": "Barra de dominadas",
+    "description": "Aísla la porción superior del dorsal ancho y restringe la asistencia de brazos.",
+    "instructions": [
+      "Agarra la barra a una distancia notablemente mayor que la anchura de hombros.",
+      "Concéntrate en guiar con los codos hacia abajo y hacia las caderas.",
+      "Eleva el pecho hasta que la barra quede a la altura de la clavícula.",
+      "Baja controladamente."
+    ],
+    "commonMistakes": [
+      "Acortar el recorrido subiendo apenas hasta los ojos.",
+      "Tirar bruscamente del cuello."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "6-8 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Dominadas Pronas Clásicas",
+    "harderVariation": "Dominadas trasnuca controladas"
+  },
+  {
+    "id": "pullup_archer",
+    "name": "Dominadas Arqueras",
+    "muscleGroup": "Espalda",
+    "difficulty": "Avanzado",
+    "equipment": "Barra de dominadas",
+    "description": "Sobrecarga unilateral de espalda preparatoria para la dominada a una mano.",
+    "instructions": [
+      "Agarre ancho; tira hacia un lado llevando el mentón sobre una mano.",
+      "El brazo contrario se extiende recto apoyando los dedos por encima de la barra.",
+      "Regresa al centro y baja con suavidad antes de cambiar al otro brazo."
+    ],
+    "commonMistakes": [
+      "Impulsarse con las piernas en el arranque.",
+      "Doblar el brazo extendido."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "5 por lado",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Dominadas con agarre asimétrico",
+    "harderVariation": "Dominada a una mano asistida"
+  },
+  {
+    "id": "front_lever_tuck_pullup",
+    "name": "Tuck Front Lever Pull-ups",
+    "muscleGroup": "Espalda",
+    "difficulty": "Avanzado",
+    "equipment": "Barra de dominadas",
+    "description": "Tracción horizontal avanzada en el aire con rodillas al pecho para dorsal y core.",
+    "instructions": [
+      "Entra en postura de tuck front lever con las rodillas pegadas al pecho y torso horizontal.",
+      "Tira de la barra hacia la cadera manteniendo la espalda recta y paralela al suelo.",
+      "Toca la barra con la parte media del abdomen o muslos y desciende sin perder la postura."
+    ],
+    "commonMistakes": [
+      "Dejar caer la cadera hacia abajo transformándolo en una dominada vertical.",
+      "No mantener los brazos estirados en la parte baja."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "4-6 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Hold estático en Tuck Front Lever",
+    "harderVariation": "Advanced Tuck Front Lever Pull-ups"
+  },
+  {
+    "id": "squat_air",
+    "name": "Sentadillas al Aire (Air Squats)",
+    "muscleGroup": "Piernas",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "Patrón fundamental de flexión de rodilla y cadera para cuádriceps, glúteos e isquiotibiales.",
+    "instructions": [
+      "Pies separados a la anchura de hombros con las puntas ligeramente hacia afuera.",
+      "Inicia el descenso empujando la cadera hacia atrás y flexionando rodillas.",
+      "Baja hasta que los muslos queden al menos paralelos al suelo o rompan el paralelo.",
+      "Empuja el suelo con toda la planta del pie, especialmente los talones."
+    ],
+    "commonMistakes": [
+      "Levantar los talones del suelo al descender.",
+      "Meter las rodillas hacia adentro (valgo de rodilla).",
+      "Redondear la espalda baja."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "15-20 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Sentadillas con soporte en silla (Box Squats)",
+    "harderVariation": "Sentadillas con salto o con pausa profunda"
+  },
+  {
+    "id": "squat_bulgarian",
+    "name": "Sentadillas Búlgaras",
+    "muscleGroup": "Piernas",
+    "difficulty": "Intermedio",
+    "equipment": "Silla o banco",
+    "description": "Trabajo unilateral brutal para aislar cuádriceps y glúteo medio, mejorando el equilibrio.",
+    "instructions": [
+      "Coloca el empeine de un pie sobre una silla o banco detrás de ti.",
+      "El pie delantero da un paso largo hacia el frente.",
+      "Desciende verticalmente doblando la pierna delantera hasta que el muslo quede paralelo.",
+      "Empuja fuertemente con el talón delantero para volver a la posición inicial."
+    ],
+    "commonMistakes": [
+      "Colocar el pie delantero muy cerca del banco forzando la rodilla.",
+      "Inclinar el torso excesivamente hacia adelante sin control."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "10-12 por pierna",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Zancadas fijas en el suelo",
+    "harderVariation": "Sentadilla búlgara con salto o con pausa de 3s"
+  },
+  {
+    "id": "squat_pistol_assisted",
+    "name": "Sentadilla Pistol Asistida",
+    "muscleGroup": "Piernas",
+    "difficulty": "Intermedio",
+    "equipment": "Silla o poste de apoyo",
+    "description": "Sentadilla a una sola pierna con soporte ligero para ganar fuerza unilateral pura.",
+    "instructions": [
+      "Párate sobre una pierna mientras extiendes la otra hacia adelante en el aire.",
+      "Sostén suavemente un poste, puerta o pared con una mano para equilibrio.",
+      "Baja lento y profundo hasta tocar el talón del suelo con los glúteos si tu movilidad lo permite.",
+      "Sube empujando firme con el talón sin desviar la rodilla."
+    ],
+    "commonMistakes": [
+      "Jalar con los brazos en lugar de empujar con la pierna.",
+      "Colapsar el tobillo hacia adentro."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "6-8 por pierna",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Sentadilla búlgara",
+    "harderVariation": "Pistol Squat libre sin apoyo"
+  },
+  {
+    "id": "squat_pistol_free",
+    "name": "Pistol Squat Libre",
+    "muscleGroup": "Piernas",
+    "difficulty": "Avanzado",
+    "equipment": "Ninguno / Suelo",
+    "description": "La máxima expresión de fuerza, equilibrio y movilidad de tren inferior en calistenia.",
+    "instructions": [
+      "Párate en una pierna, brazos al frente para contrapeso.",
+      "Extiende la pierna libre completamente al frente recta.",
+      "Baja en control hasta la flexión completa de cadera y rodilla.",
+      "Mantén el pie libre sin tocar el piso y levántate con potencia."
+    ],
+    "commonMistakes": [
+      "Perder el equilibrio hacia atrás por falta de flexión de tobillo (dorsiflexión).",
+      "Dejar caer la pierna suspendida al suelo."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "5-8 por pierna",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Sentadilla Pistol Asistida",
+    "harderVariation": "Pistol Squat sobre plataforma elevada"
+  },
+  {
+    "id": "lunges_walking",
+    "name": "Zancadas Dinámicas (Lunges)",
+    "muscleGroup": "Piernas",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "Desarrolla coordinación, estabilidad pélvica y resistencia en piernas y glúteos.",
+    "instructions": [
+      "Da un paso adelante amplio manteniendo el torso erguido.",
+      "Flexiona ambas rodillas a 90 grados; la trasera roza el suelo.",
+      "Impúlsate para pasar directo a la zancada con la pierna opuesta."
+    ],
+    "commonMistakes": [
+      "Golpear bruscamente la rodilla trasera contra el piso duro.",
+      "Dar pasos demasiado cortos sobrecargando la rótula."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12 por pierna",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Zancadas estáticas hacia atrás",
+    "harderVariation": "Zancadas con salto alterno (Jumping Lunges)"
+  },
+  {
+    "id": "glute_bridge_single",
+    "name": "Puente de Glúteos a Una Pierna",
+    "muscleGroup": "Piernas",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "Aísla la cadena posterior (glúteo mayor e isquios) protegiendo la zona lumbar.",
+    "instructions": [
+      "Acuéstate boca arriba con una rodilla flexionada y la otra pierna estirada al cielo.",
+      "Presiona con el talón apoyado y eleva la cadera hasta alinear muslo y torso.",
+      "Aprieta el glúteo arriba durante 2 segundos y baja rozando el suelo."
+    ],
+    "commonMistakes": [
+      "Empujar arqueando la espalda baja en vez de contraer el glúteo.",
+      "Desviar la pelvis rotando la cadera."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12-15 por pierna",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Puente de glúteos con dos piernas",
+    "harderVariation": "Puente de glúteos con pie elevado en banco"
+  },
+  {
+    "id": "calf_raises",
+    "name": "Elevaciones de Gemelos en Escalón",
+    "muscleGroup": "Piernas",
+    "difficulty": "Principiante",
+    "equipment": "Silla o escalón",
+    "description": "Fortalecimiento del gastrocnemio y sóleo con rango completo de estiramiento.",
+    "instructions": [
+      "Apoya solo la parte delantera de los pies en un borde o escalón.",
+      "Baja los talones lentamente sintiendo un estiramiento profundo.",
+      "Sube con fuerza apoyándote en la punta de los dedos hasta la máxima contracción.",
+      "Aguanta 1 segundo arriba."
+    ],
+    "commonMistakes": [
+      "Rebotar rápidamente sin aprovechar la fase concéntrica y excéntrica.",
+      "Flexionar las rodillas durante la elevación."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "15-20 reps",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Elevaciones en suelo plano",
+    "harderVariation": "Elevaciones de gemelos a una sola pierna"
+  },
+  {
+    "id": "squat_jump",
+    "name": "Sentadillas con Salto Explosivo",
+    "muscleGroup": "Piernas",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "Aumenta la tasa de desarrollo de fuerza y quema calórica metabólica.",
+    "instructions": [
+      "Baja a una sentadilla profunda controlada.",
+      "Desde el fondo, explota hacia arriba despegando los pies del suelo.",
+      "Aterriza suavemente sobre las puntas pasando de inmediato a la siguiente sentadilla."
+    ],
+    "commonMistakes": [
+      "Aterrizar con los talones de golpe con piernas rígidas.",
+      "Perder la postura del pecho al impulsarse."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Sentadillas al aire rápidas",
+    "harderVariation": "Tuck Jumps (rodillas al pecho en el aire)"
+  },
+  {
+    "id": "plank_isometric",
+    "name": "Plancha Abdominal Isométrica",
+    "muscleGroup": "Core",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "Resistencia isométrica del transverso abdominal y estabilizadores de columna.",
+    "instructions": [
+      "Apóyate sobre los antebrazos y las puntas de los pies.",
+      "Contrae activamente abdomen, glúteos y cuádriceps empujando el suelo con los codos.",
+      "Mantén la pelvis en retroversión neutra y respira de manera constante."
+    ],
+    "commonMistakes": [
+      "Dejar caer la cadera hacia el suelo arqueando la zona lumbar.",
+      "Elevar los glúteos formando un triángulo."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "45-60 seg",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Plancha con rodillas apoyadas",
+    "harderVariation": "Plancha extendida con manos adelantadas"
+  },
+  {
+    "id": "hollow_body_hold",
+    "name": "Hollow Body Hold",
+    "muscleGroup": "Core",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "La postura gimnástica fundamental para transferir fuerza a dominadas, handstand y planchas.",
+    "instructions": [
+      "Acuéstate boca arriba y pega firmemente la zona lumbar contra el suelo.",
+      "Despega los hombros y las piernas rectas a unos centímetros del suelo.",
+      "Extiende los brazos por detrás de la cabeza formando una 'banana'.",
+      "Sostén la tensión sin dejar que la espalda baja se despegue ni un milímetro."
+    ],
+    "commonMistakes": [
+      "Dejar que la zona lumbar se arquee despegándose del piso.",
+      "Doblar las rodillas por fatiga."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "30-40 seg",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Tuck Hollow Body (rodillas flexionadas)",
+    "harderVariation": "Hollow body rocks (balanceos rítmicos)"
+  },
+  {
+    "id": "hanging_leg_raises",
+    "name": "Elevaciones de Piernas Colgado",
+    "muscleGroup": "Core",
+    "difficulty": "Intermedio",
+    "equipment": "Barra de dominadas",
+    "description": "Enfoque potente en el recto abdominal inferior y flexores de cadera desde cuelgue.",
+    "instructions": [
+      "Cuélgate de la barra con agarre prono sin balanceo corporal.",
+      "Manteniendo las piernas estiradas y juntas, elévalas hasta formar al menos 90 grados con el torso.",
+      "Baja las piernas lentamente resistiendo la gravedad."
+    ],
+    "commonMistakes": [
+      "Usar inercia o columpiarse hacia adelante y atrás.",
+      "Caer rápido en la bajada sin tensión muscular."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Elevaciones de rodillas al pecho colgado",
+    "harderVariation": "Toes to Bar (tocar la barra con los pies)"
+  },
+  {
+    "id": "toes_to_bar",
+    "name": "Toes to Bar Estricto",
+    "muscleGroup": "Core",
+    "difficulty": "Avanzado",
+    "equipment": "Barra de dominadas",
+    "description": "Fuerza de compresión abdominal y dorsal estricta llevando los pies a la barra.",
+    "instructions": [
+      "Cuelga pasivo o activo; activa dorsales empujando la barra hacia abajo.",
+      "Sube las piernas completamente rectas hasta que los empeines toquen la barra.",
+      "Desciende en 3 segundos manteniendo la postura hueca."
+    ],
+    "commonMistakes": [
+      "Doblar los brazos para acercar el cuerpo.",
+      "Kipping o pataleo para alcanzar la barra."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "6-8 reps",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Elevaciones de Piernas Colgado",
+    "harderVariation": "Windshield Wipers colgado"
+  },
+  {
+    "id": "l_sit_hold",
+    "name": "L-Sit en Paralelas o Suelo",
+    "muscleGroup": "Core",
+    "difficulty": "Avanzado",
+    "equipment": "Barras paralelas o suelo",
+    "description": "Sostén isométrico gimnástico para tríceps, hombros, abdomen y cuádriceps.",
+    "instructions": [
+      "Apoya las palmas empujando con fuerza hacia abajo (depresión escapular total).",
+      "Eleva el cuerpo y estira las piernas al frente a la altura de la cadera en ángulo recto.",
+      "Mantén las rodillas bloqueadas y las puntas de los pies estiradas."
+    ],
+    "commonMistakes": [
+      "Dejar que los hombros se eleven tapando el cuello.",
+      "Dejar caer los talones por debajo del nivel de la cadera."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "15-25 seg",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Tuck L-sit (rodillas dobladas)",
+    "harderVariation": "V-Sit hold"
+  },
+  {
+    "id": "side_plank_raises",
+    "name": "Plancha Lateral con Elevación",
+    "muscleGroup": "Core",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "Fortalecimiento de los oblicuos, cuadrado lumbar y glúteo medio lateral.",
+    "instructions": [
+      "Colócate de lado apoyando el antebrazo bajo el hombro y los pies juntos.",
+      "Baja la cadera hacia el suelo y elévala activamente por encima de la línea neutral.",
+      "Contrae el oblicuo en el punto más alto."
+    ],
+    "commonMistakes": [
+      "Girar el pecho hacia el piso en lugar de mirar hacia el frente.",
+      "Colocar el codo demasiado lejos del hombro."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12 por lado",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Plancha lateral isométrica con rodillas",
+    "harderVariation": "Plancha lateral con pierna superior elevada (estrella)"
+  },
+  {
+    "id": "dragon_flag_progression",
+    "name": "Dragon Flag (Progresión)",
+    "muscleGroup": "Core",
+    "difficulty": "Avanzado",
+    "equipment": "Banco o poste fijo",
+    "description": "Famoso ejercicio de Bruce Lee para control total de la cadena anterior.",
+    "instructions": [
+      "Acuéstate en un banco y agarra firmemente los bordes detrás de tu cabeza.",
+      "Eleva todo el cuerpo en una línea recta apoyando únicamente la parte superior de la espalda.",
+      "Baja lentamente el cuerpo rígido como un poste sin doblar la cadera.",
+      "Regresa antes de tocar el banco."
+    ],
+    "commonMistakes": [
+      "Quebrar la cintura doblando las caderas para no caer.",
+      "Apoyar el peso sobre el cuello en vez de la cintura escapular."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "5-6 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Tuck Dragon Flag excéntrico",
+    "harderVariation": "Dragon Flag completo con pausa abajo"
+  },
+  {
+    "id": "russian_twists",
+    "name": "Giros Rusos en el Suelo",
+    "muscleGroup": "Core",
+    "difficulty": "Principiante",
+    "equipment": "Ninguno / Suelo",
+    "description": "Rotación torácica y activación de oblicuos manteniendo el equilibrio en glúteos.",
+    "instructions": [
+      "Siéntate con las rodillas dobladas y eleva los pies unos centímetros del piso.",
+      "Inclina el torso hacia atrás a unos 45 grados.",
+      "Gira el torso de lado a lado tocando el suelo a ambos lados con las manos.",
+      "Mantén el movimiento controlado sin balanceo violento."
+    ],
+    "commonMistakes": [
+      "Mover solo los brazos sin rotar realmente la caja torácica.",
+      "Perder la tensión y encorvarse excesivamente."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "20 giros (10 por lado)",
+    "defaultRestSeconds": 45,
+    "easierVariation": "Giros rusos con pies apoyados en el suelo",
+    "harderVariation": "Giros rusos con piernas totalmente estiradas"
+  },
+  {
+    "id": "pike_pushup",
+    "name": "Flexiones en Pica (Pike Push-ups)",
+    "muscleGroup": "Hombros",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "Empuje vertical con peso corporal ideal para construir deltoides frontales y tríceps.",
+    "instructions": [
+      "Adopta una postura de V invertida con la cadera elevada hacia el techo.",
+      "Baja la cabeza diagonalmente hacia adelante formando un trípode con las manos.",
+      "Empuja fuerte hacia arriba y hacia atrás para volver a la posición de pico."
+    ],
+    "commonMistakes": [
+      "Bajar la cabeza directamente entre las manos en lugar de hacia adelante.",
+      "Abrir los codos lateralmente estresando el manguito rotador."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Flexiones Declinadas",
+    "harderVariation": "Elevated Pike Push-ups (pies en banco)"
+  },
+  {
+    "id": "pike_pushup_elevated",
+    "name": "Flexiones en Pica con Pies Elevados",
+    "muscleGroup": "Hombros",
+    "difficulty": "Intermedio",
+    "equipment": "Silla o banco",
+    "description": "Aumenta la verticalidad del torso incrementando la carga sobre los hombros.",
+    "instructions": [
+      "Pies sobre un banco o silla, manos en el suelo en ángulo de 90 grados cadera-torso.",
+      "Flexiona codos hacia atrás llevando la coronilla delante de las manos.",
+      "Empuja el suelo hasta extender los brazos y meter la cabeza entre los hombros."
+    ],
+    "commonMistakes": [
+      "Alejar las manos demasiado del banco perdiendo la verticalidad.",
+      "No completar el bloqueo articular superior."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Flexiones en Pica en suelo",
+    "harderVariation": "Handstand Push-ups contra pared"
+  },
+  {
+    "id": "handstand_wall_hold",
+    "name": "Handstand Hold Contra la Pared",
+    "muscleGroup": "Hombros",
+    "difficulty": "Intermedio",
+    "equipment": "Pared lisa",
+    "description": "Fuerza estática de hombros, trapecios y alineación corporal en inversión completa.",
+    "instructions": [
+      "Sube caminando por la pared mirando hacia ella (belly-to-wall) hasta quedar vertical.",
+      "Empuja activamente el suelo con las palmas y dedos (elevación escapular).",
+      "Aprieta glúteos, abdomen y junta los pies como una aguja.",
+      "Respira tranquilamente."
+    ],
+    "commonMistakes": [
+      "Dejar caer los hombros hacia abajo (escapulas colapsadas).",
+      "Arquear como un plátano mirando al suelo."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "30-45 seg",
+    "defaultRestSeconds": 75,
+    "easierVariation": "Wall walk parcial en 45 grados",
+    "harderVariation": "Handstand libre sin pared"
+  },
+  {
+    "id": "handstand_pushup_wall",
+    "name": "Handstand Push-ups (HSPU) Contra Pared",
+    "muscleGroup": "Hombros",
+    "difficulty": "Avanzado",
+    "equipment": "Pared lisa",
+    "description": "Uno de los ejercicios más potentes para masa y fuerza pura de hombros en calistenia.",
+    "instructions": [
+      "Ponte en pino contra la pared con los brazos estirados.",
+      "Desciende controladamente flexionando los codos hacia adentro hasta tocar suavemente el suelo con la cabeza.",
+      "Empuja el suelo con máxima potencia hasta volver a extender completamente los brazos."
+    ],
+    "commonMistakes": [
+      "Golpear la cabeza bruscamente contra el suelo.",
+      "Abrir los codos excesivamente hacia los lados."
+    ],
+    "defaultSets": 4,
+    "defaultReps": "5-8 reps",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Flexiones en Pica con Pies Elevados",
+    "harderVariation": "Handstand Push-ups en déficit con bloques"
+  },
+  {
+    "id": "bench_dips_triceps",
+    "name": "Fondos de Tríceps en Banco",
+    "muscleGroup": "Brazos",
+    "difficulty": "Principiante",
+    "equipment": "Silla o banco",
+    "description": "Aislamiento directo de los tríceps con facilidad de regulación de carga.",
+    "instructions": [
+      "Siéntate en el borde de un banco con las manos junto a las caderas.",
+      "Desplaza los glúteos hacia afuera con las piernas extendidas al frente.",
+      "Flexiona los codos hacia atrás hasta 90 grados manteniendo la espalda pegada al banco.",
+      "Extiende los brazos contrayendo los tríceps arriba."
+    ],
+    "commonMistakes": [
+      "Alejar el cuerpo del banco sobrecargando la articulación anterior del hombro.",
+      "Encoger los hombros hacia arriba."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "12-15 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Fondos en banco con rodillas flexionadas",
+    "harderVariation": "Fondos en banco con pies elevados en otro banco"
+  },
+  {
+    "id": "sphinx_pushup",
+    "name": "Flexiones Esfinge (Extensiones de Tríceps)",
+    "muscleGroup": "Brazos",
+    "difficulty": "Intermedio",
+    "equipment": "Ninguno / Suelo",
+    "description": "Extensión pura de codo contra el suelo para sobrecargar la cabeza larga del tríceps.",
+    "instructions": [
+      "Comienza en plancha sobre los antebrazos con las manos extendidas al frente.",
+      "Empuja con las palmas despegando los antebrazos del suelo hasta que los brazos queden rectos.",
+      "Baja los antebrazos despacio de vuelta al piso sin golpear."
+    ],
+    "commonMistakes": [
+      "Subir un brazo primero y luego el otro de forma descoordinada.",
+      "Perder la rigidez de la cadera."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "8-10 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Flexiones esfinge con rodillas en el suelo",
+    "harderVariation": "Flexiones esfinge con manos más adelantadas"
+  },
+  {
+    "id": "bicep_chin_grip_row",
+    "name": "Remo Supino Focalizado en Bíceps",
+    "muscleGroup": "Brazos",
+    "difficulty": "Principiante",
+    "equipment": "Barras paralelas o barra baja",
+    "description": "Tracción horizontal con agarre supino cerrado para maximizar la flexión de codo.",
+    "instructions": [
+      "Agarra una barra baja con las palmas mirando hacia ti y manos juntas.",
+      "Tira flexionando intensamente los codos llevando la frente o barbilla hacia la barra.",
+      "Aprieta los bíceps 2 segundos arriba antes de estirar."
+    ],
+    "commonMistakes": [
+      "Tirar con la inercia de la cadera.",
+      "Soltar el agarre antes de tiempo."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "10-12 reps",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Remo supino con cuerpo más vertical",
+    "harderVariation": "Dominadas Supinas completas en barra alta"
+  },
+  {
+    "id": "muscle_up_tuck_transition",
+    "name": "Transición de Muscle-up Asistida",
+    "muscleGroup": "Espalda",
+    "difficulty": "Avanzado",
+    "equipment": "Barra baja",
+    "description": "El movimiento cumbre de la calistenia: pasar de una tracción vertical a un empuje sobre la barra.",
+    "instructions": [
+      "En una barra a la altura del pecho o usando un cajón, mantén agarre falso o neutro.",
+      "Jala explosivo hacia el esternón e inclina el torso inmediatamente por encima de la barra.",
+      "Pasa los codos al frente y empuja en un fondo hasta quedar extendido sobre la barra."
+    ],
+    "commonMistakes": [
+      "Intentar subir un codo antes que el otro (chicken wing), peligroso para el hombro.",
+      "No llevar el pecho por delante de la barra durante la transición."
+    ],
+    "defaultSets": 3,
+    "defaultReps": "5 reps técnicas",
+    "defaultRestSeconds": 90,
+    "easierVariation": "Dominada alta al esternón",
+    "harderVariation": "Muscle-up estricto sin impulso"
+  },
+  {
+    "id": "handstand_freestanding_kickup",
+    "name": "Entrada a Pino Libre (Handstand Kick-up)",
+    "muscleGroup": "Hombros",
+    "difficulty": "Avanzado",
+    "equipment": "Ninguno / Suelo",
+    "description": "Control de equilibrio dinámico, propiocepción y fuerza en muñecas y hombros.",
+    "instructions": [
+      "Manos firmes en el suelo abiertas a la anchura de hombros, dedos separados para agarrar el piso.",
+      "Patea suavemente con una pierna mientras la otra acompaña.",
+      "Busca el punto de equilibrio usando la yema de los dedos para evitar caer hacia adelante.",
+      "Sostén el tiempo que puedas y aterriza un pie a la vez."
+    ],
+    "commonMistakes": [
+      "Patear con demasiada fuerza descontrolada.",
+      "Mirar entre las rodillas en vez de un punto entre las manos."
+    ],
+    "defaultSets": 5,
+    "defaultReps": "Intentos de 10-20 seg",
+    "defaultRestSeconds": 60,
+    "easierVariation": "Handstand contra pared",
+    "harderVariation": "Prensa a pino (Press to Handstand)"
+  }
+]

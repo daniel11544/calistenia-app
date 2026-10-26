@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">FitCalisthenics</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Hoy</string>
+    <string name="nav_exercises">Ejercicios</string>
+    <string name="nav_progress">Progreso</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Domina tu propio peso corporal</string>
+    <string name="onboarding_welcome_subtitle">Entrenamientos de calistenia guiados, sobrecarga progresiva y planes adaptados a tu nivel y tiempo.</string>
+    <string name="onboarding_cta_start">Comenzar Ahora</string>
+    <string name="onboarding_step_format">Paso %1$d de %2$d</string>
+    <string name="onboarding_btn_next">Continuar</string>
+    <string name="onboarding_btn_back">Atrás</string>
+    <string name="onboarding_btn_finish">Crear mi Plan</string>
+
+    <!-- Step 1: Biometrics & Level -->
+    <string name="step_physical_title">Cuéntanos sobre ti</string>
+    <string name="step_physical_desc">Personalizaremos el volumen e intensidad de tus rutinas.</string>
+    <string name="label_age">Edad</string>
+    <string name="label_gender">Género</string>
+    <string name="gender_male">Hombre</string>
+    <string name="gender_female">Mujer</string>
+    <string name="gender_other">Otro</string>
+    <string name="label_weight">Peso (kg)</string>
+    <string name="label_height">Altura (cm)</string>
+    <string name="label_level">Nivel actual</string>
+    <string name="level_beginner">Principiante (0 - 5 dominadas)</string>
+    <string name="level_intermediate">Intermedio (6 - 15 dominadas)</string>
+    <string name="level_advanced">Avanzado (+15 dominadas / Muscle-up)</string>
+
+    <!-- Step 2: Goal -->
+    <string name="step_goal_title">¿Cuál es tu objetivo?</string>
+    <string name="step_goal_desc">Adaptaremos el rango de repeticiones y descansos de cada bloque.</string>
+    <string name="goal_lose_fat">Perder grasa y definir</string>
+    <string name="goal_lose_fat_desc">Circuitos de alta intensidad y pausas dinámicas</string>
+    <string name="goal_build_muscle">Ganar masa muscular</string>
+    <string name="goal_build_muscle_desc">Enfoque en hipertrofia y tensión mecánica</string>
+    <string name="goal_endurance">Resistencia y agilidad</string>
+    <string name="goal_endurance_desc">Series largas, densidad de trabajo y resistencia cardiovascular</string>
+    <string name="goal_skills">Fuerza y habilidades estáticas</string>
+    <string name="goal_skills_desc">Progresión a handstand, front lever y muscle-up</string>
+
+    <!-- Step 3: Availability -->
+    <string name="step_schedule_title">Tu disponibilidad semanal</string>
+    <string name="step_schedule_desc">La consistencia supera a la intensidad esporádica.</string>
+    <string name="label_days_per_week">Días de entrenamiento por semana</string>
+    <string name="days_per_week_format">%1$d días por semana</string>
+    <string name="label_session_duration">Duración por sesión</string>
+    <string name="duration_15_min">15 min (Express)</string>
+    <string name="duration_30_min">30 min (Equilibrado)</string>
+    <string name="duration_45_min">45 min (Completo)</string>
+    <string name="duration_60_min">60 min (Intensivo)</string>
+
+    <!-- Home / Today -->
+    <string name="today_greeting">¡A entrenar hoy!</string>
+    <string name="today_subtitle">Sigue tu sobrecarga progresiva</string>
+    <string name="today_rest_title">Día de Descanso Activo</string>
+    <string name="today_rest_desc">Los músculos crecen y se reparan durante el descanso. Puedes hacer estiramientos ligeros o una caminata.</string>
+    <string name="start_workout_cta">Comenzar Rutina Guiada</string>
+    <string name="workout_already_completed">¡Rutina completada hoy!</string>
+    <string name="workout_progress_label">Progreso de la sesión</string>
+    <string name="streak_label">Racha</string>
+    <string name="streak_days_format">%1$d días</string>
+    <string name="total_exercises_format">%1$d ejercicios</string>
+    <string name="est_calories_format">~%1$d kcal</string>
+    <string name="est_time_format">%1$d min</string>
+    <string name="sets_reps_format">%1$d series × %2$s</string>
+    <string name="rest_seconds_format">Descanso: %1$d s</string>
+
+    <!-- Workout / Timer -->
+    <string name="timer_title">Entrenando</string>
+    <string name="timer_set_format">Serie %1$d de %2$d</string>
+    <string name="timer_rest_phase">TIEMPO DE DESCANSO</string>
+    <string name="timer_work_phase">¡VAMOS! EJECUTA LA SERIE</string>
+    <string name="timer_skip_rest">Saltar descanso</string>
+    <string name="timer_pause">Pausar</string>
+    <string name="timer_resume">Reanudar</string>
+    <string name="timer_finish_set">Completar serie</string>
+    <string name="timer_finish_workout">Finalizar Entrenamiento</string>
+    <string name="timer_next_exercise">Siguiente: %1$s</string>
+    <string name="timer_congrats_title">¡Sesión Superada!</string>
+    <string name="timer_congrats_message">Excelente esfuerzo. Has completado todos los ejercicios programados para hoy.</string>
+    <string name="timer_btn_home">Volver al Inicio</string>
+
+    <!-- Exercises Catalog -->
+    <string name="exercises_title">Catálogo de Calistenia</string>
+    <string name="exercises_search_hint">Buscar ejercicio o músculo...</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_chest">Pecho</string>
+    <string name="filter_back">Espalda</string>
+    <string name="filter_legs">Piernas</string>
+    <string name="filter_core">Core / Abdomen</string>
+    <string name="filter_arms">Brazos</string>
+    <string name="filter_shoulders">Hombros</string>
+    <string name="exercise_instructions_title">Instrucciones de ejecución</string>
+    <string name="exercise_mistakes_title">Errores comunes a evitar</string>
+    <string name="exercise_variations_title">Variantes de progresión</string>
+    <string name="exercise_easier_label">Variante más fácil</string>
+    <string name="exercise_harder_label">Variante más avanzada</string>
+
+    <!-- Progress -->
+    <string name="progress_title">Tu Progreso</string>
+    <string name="progress_streak_title">Racha de consistencia</string>
+    <string name="stat_sessions_done">Sesiones completadas</string>
+    <string name="stat_minutes_trained">Minutos entrenados</string>
+    <string name="stat_calories_burned">Kcal quemadas</string>
+    <string name="achievements_title">Insignias y Logros</string>
+    <string name="history_title">Historial de entrenamientos</string>
+    <string name="history_empty">Aún no hay sesiones registradas. ¡Empieza hoy!</string>
+
+    <!-- Gemini AI Coach -->
+    <string name="gemini_coach_title">Consejo del Entrenador IA</string>
+    <string name="gemini_coach_desc">Recibe un análisis inteligente de tu volumen y consejos basados en tu progreso real.</string>
+    <string name="gemini_btn_ask">Pedir recomendación a Gemini</string>
+    <string name="gemini_loading">Analizando tu historial y calculando consejos...</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">Perfil y Ajustes</string>
+    <string name="profile_personal_data">Datos de Atleta</string>
+    <string name="profile_plan_info">Plan de Calistenia Activo</string>
+    <string name="profile_change_plan">Cambiar / Regenerar Plan</string>
+    <string name="profile_reminders">Recordatorios y Notificaciones</string>
+    <string name="profile_daily_reminder">Recordatorio de entrenamiento diario</string>
+    <string name="profile_daily_time">Hora del recordatorio: %1$02d:%2$02d</string>
+    <string name="profile_hydration">Alerta de hidratación (cada 2 horas)</string>
+    <string name="profile_dark_mode">Modo Oscuro</string>
+    <string name="profile_reset">Reiniciar datos de progreso</string>
+    <string name="profile_reset_confirm">¿Estás seguro de que deseas restablecer tu plan y progreso? Esta acción no se puede deshacer.</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Confirmar</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_workout_name">Recordatorios de Entrenamiento</string>
+    <string name="notif_channel_workout_desc">Notificaciones para tu sesión diaria de calistenia</string>
+    <string name="notif_channel_timer_name">Temporizador Activo</string>
+    <string name="notif_channel_timer_desc">Temporizador de series y descansos en segundo plano</string>
+    <string name="notif_channel_hydration_name">Hidratación</string>
+    <string name="notif_channel_hydration_desc">Recordatorios periódicos para beber agua</string>
+    <string name="notif_workout_title">¡Hora de calistenia!</string>
+    <string name="notif_workout_body">Tu cuerpo te espera. Completa tu rutina de hoy y mantén la racha.</string>
+    <string name="notif_hydration_title">Recuerda hidratarte</string>
+    <string name="notif_hydration_body">Beber agua es esencial para la recuperación muscular y el rendimiento.</string>
+</resources>

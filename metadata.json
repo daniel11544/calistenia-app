@@ -1,0 +1,6 @@
+{
+  "name": "FitCalisthenics",
+  "description": "Entrenador personal digital de calistenia con planes progresivos, rutinas guiadas, temporizador y progreso offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
